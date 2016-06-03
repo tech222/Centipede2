@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 69b2c725ded739d44b3c6521e81f3290
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eggSprite_0
+    21300002: eggSprite_1
+    21300004: eggSprite_2
+    21300006: eggSprite_3
+    21300008: eggSprite_4a
+    21300010: eggSprite_4b
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 67
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eggSprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggSprite_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggSprite_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 12
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggSprite_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 12
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggSprite_4a
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 12
+        width: 45
+        height: 78
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggSprite_4b
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 12
+        width: 45
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

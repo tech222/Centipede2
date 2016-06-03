@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 70aa03bdf55d4a64d81ddf6d322905af
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemySnake: {fileID: 100004, guid: 1baa5135f7c709448823c6d2c0b60f01, type: 2}
+  - sceneManager: {fileID: 100000, guid: df354c767ac64384b81daad9e0954c70, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8c8cad4dc134eb14b84e909bc0ba0aea
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BabyHeadPrefab: {fileID: 100000, guid: df3f4b7ce1e89694d8b60ce851643b8a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

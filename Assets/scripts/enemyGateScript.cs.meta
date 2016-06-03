@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: dcf69f73144ba7644a2ef792eb79eb57
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyInvsiGate: {fileID: 100004, guid: 8e8293c4cd332cd4d8bc77682c3912fd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,81 @@
+turn only on Flag == true
+turn on keydown and on key
+comments
+organize (functions?)
+include seg's gameobjects in Head (1 player gameobject)
+collision cube at corners, ontrue == turn
+
+todo:
+maze
+enemy
+frogs
+eggs (spawn to new player/enemy)
+hud
+gui
+
+
+frog:
+have frog hone in on egg. vector between frog and egg. weight frog move direction based on egg location.
+
+6-26 todo:
+add trailing segments to enemy and baby
+destroy baby at home and increment player
+have frog hone in on egg
+frog-egg collider
+head-enemy collider
+enemy-head collider
+rotate gameobject to consistent plane (xy or xz?)
+
+
+6-28:
+seg trailing idea?
+set seg[] = position if(timer%a)==0, a=5?6? where timer += Time.time.
+use fixedupdate for constant framerate?
+
+if segAmt > array.length then increase array size
+if segAmt < array.length then decrease array size
+(start with array ~10)?
+
+frogmove using 4 raycasts from above at N,E,W,S
+
+segs bunch up at slow speed, stretch out at high speed:
+set positions[i] index skip to a ratio of speed to keep distance between segs constant.
+
+trigger with head covers entire snake (all child segments):
+use raycast for head hit to isolate head from segments *or*
+put control script in empty and make head and segs children
+
+On Frog, Player, and Enemy - try gameObject.setActive(false)/(true) instead of Destroy/Instantiate.
+
+7-9:
+enemy & frog AI/homing (include 4-way X intersections)
+enemy baby
+
+7-16:
+for maze bigger than screen, alpha channel fade on edges where maze reaches outside of camera view.
+
+gui - wood/swamp theme?
+
+7-27:
+if player is bigger than enemy then flip enemy aggressiveness to have enemy move away from player and vice versa.
+use x & y-axis inputs so as to allow for joystick
+
+7-30:
+have 1 sprite for enemy and fade color from orange to yellow using fade method and sprite renderer (no animation component)
+
+Commonly, it is good practice to put your User Interface on a different layer, then render it by itself with a separate Camera set to render the UI layer by itself.
+
+8-14:
+3 different enemies? each enemy type gives birth to it's own type.
+change gate open/close to animations?
+add dumb/randomAI to enemies and balance.
+
+8-24:
+fix frog spawning in locations
+fix player snake wall collisoins on returning home after finishing level
+add random AI for enemies and balance aggresiveness in inspector
+make SceneManager into singleton to preserve score, players between scenes
+Use Player Prefs to save score? highscore system?
+
+8-26:
+replace gate move coroutines with unity animations?

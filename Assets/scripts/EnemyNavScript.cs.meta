@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 765f3ad3eff40744d857bef5031b4d8e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemySplosion: {fileID: 100000, guid: f64a422972e80434abb49a974cef6cd4, type: 2}
+  - frog: {fileID: 100002, guid: 29e602206631543459d9e42312aa1e35, type: 2}
+  - head: {fileID: 100002, guid: 4f50144843186eb43960c75dfc2f4890, type: 2}
+  - enemySegPrefab: {fileID: 100000, guid: b278fc070dc4a2b4bbb7fb960d9aa068, type: 2}
+  - enemyEggPrefab: {fileID: 100000, guid: b6788af60ce5f4949ba4064e5af403a6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

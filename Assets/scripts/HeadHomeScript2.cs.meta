@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0e51752579fc34a4f9792ad684cc60d1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BabySegPrefab: {fileID: 100000, guid: da14ae93c11eee44699bd916b858bed4, type: 2}
+  - target: {fileID: 100000, guid: cb37b6dd6d3e45249bd9ec55ad92142c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

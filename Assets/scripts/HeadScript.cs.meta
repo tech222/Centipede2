@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f7f280cecc24ddc4a861bd9f61340a2d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - frog: {fileID: 100002, guid: 29e602206631543459d9e42312aa1e35, type: 2}
+  - segPrefab: {fileID: 100000, guid: 2ea5257affa38a4429a1bc39df89eef9, type: 2}
+  - eggPrefab: {fileID: 100000, guid: 1ea780805e0727d4b9b551627684e1d5, type: 2}
+  - sceneManager: {fileID: 100000, guid: df354c767ac64384b81daad9e0954c70, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 83a93417e6f1deb4ba14180117712bcb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerSnake: {fileID: 100000, guid: 2c9881269935e8d46aac799eaae6be28, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
